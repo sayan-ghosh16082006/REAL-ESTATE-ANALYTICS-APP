@@ -1,4 +1,4 @@
-[project]
+[tool.poetry]
 name = "real-estate-ml"
 version = "0.1.0"
 description = "Add your description here"
