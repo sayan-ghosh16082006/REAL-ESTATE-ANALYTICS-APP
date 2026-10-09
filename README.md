@@ -66,8 +66,8 @@ realestate-app/
 
 ### 1. Clone and create an environment
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/sayan-ghosh16082006/REAL-ESTATE-ANALYTICS-APP.git
+cd https://github.com/sayan-ghosh16082006/REAL-ESTATE-ANALYTICS-APP.git
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 ```
